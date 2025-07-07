@@ -1,8 +1,8 @@
 ## Hi there! I'm Thalia 👋
 
-💡 I’m currently working as a Salesforce Admin and AWS Cloud Services (Lamba, S3, Athena, SQL)
-☁️ 1X Salesforce Certifield
-💻 I'm developing skills in JavaScript, Python, Java, Noje.js, Go.
+ - 💡 I’m currently working as a Salesforce Admin and AWS Cloud Services (Lamba, S3, Athena, SQL)
+ - ☁️ 1X Salesforce Certifield
+ - 💻 I'm developing skills in JavaScript, Python, Java, Noje.js, Go.
 
 ##
 
