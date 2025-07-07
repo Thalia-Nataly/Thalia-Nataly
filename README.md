@@ -1,9 +1,8 @@
 ## Hi there! I'm Thalia 👋
 
-- 💡 I’m currently working as a Salesforce Admin and AWS Cloud Services (Lamba, S3, Athena, SQL)   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Salesforce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
-- ☁️ I’m currently learning AWS Cloud
-- 💻 I'm developing skills in JavaScript, HTML, CSS, Python and C# 👩🏻‍💻
+💡 I’m currently working as a Salesforce Admin and AWS Cloud Services (Lamba, S3, Athena, SQL)
+☁️ 1X Salesforce Certifield
+💻 I'm developing skills in JavaScript, Python, Java, Noje.js, Go.
 
 ##
 
